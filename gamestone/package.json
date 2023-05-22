@@ -26,7 +26,7 @@
         "parcel": "^2.8.2",
         "process": "^0.11.10",
         "react-bulma-components": "^4.1.0",
-        "style-loader": "^3.3.1"
+        "style-loader": "^3.3.3"
     },
     "dependencies": {
         "js-cookie": "^3.0.1",
